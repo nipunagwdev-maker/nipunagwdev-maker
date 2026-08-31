@@ -1,264 +1,164 @@
 <div align="center">
 
-# `> Hello, World! 👋`
+# Hi, I'm Nipuna 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=750&lines=I'm+Nipuna+Madhuranga+%F0%9F%91%8B;Flutter+%26+Dart+Developer+%F0%9F%93%B1;Computer+Science+%2B+Electronics+Student+%F0%9F%A7%A0;I+Build+Mobile+Apps+%F0%9F%9A%80;I+Turn+Ideas+Into+Working+Software+%F0%9F%92%BB;Design+Mindset.+Developer+Thinking.+%F0%9F%8E%A8" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=0175C2&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer+in+Progress;Building+Mobile+Apps+with+Flutter;Computer+Science+%2B+Electronics+Undergraduate;Learning+Software+Engineering+One+Project+at+a+Time;From+Graphic+Design+to+Software+Development" alt="Typing introduction" />
 
 <br>
 
-`Flutter` • `Dart` • `Java` • `Python` • `Firebase` • `SQL`
+**Mobile Application Development · Flutter · Dart · Java · SQL**
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Building-Real%20Apps-00BFA6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Learning-Every%20Day-0175C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka-181717?style=flat-square"/>
-
-</div>
-
----
-
-## 🧑‍💻 `$ whoami`
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  Name       : G.W.N. Nipuna Madhuranga                    │
-│  Role       : Aspiring Software Engineer                   │
-│  Specialty  : Mobile Application Development               │
-│  Framework  : Flutter                                      │
-│  Languages  : Dart • Java • Python • C • SQL               │
-│  Education  : BSc Applied Science Undergraduate             │
-│  Focus      : Computer Science + Electronics               │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
-I'm a **developer in progress**, focused on building real software rather than just following tutorials.
-
-My main interest is **mobile application development with Flutter**, while I'm strengthening my foundations in computer science, programming, databases and software engineering.
-
-Before getting seriously into development, I worked with **graphic design**. That experience still influences the way I build software — especially when it comes to UI, visual hierarchy and user experience.
-
-> `Design gives me the eye. Code gives me the ability to build.`
-
----
-
-## ⌨️ `$ currently_running`
-
-```text
-[████████████████████░░]  Flutter development
-[███████████████░░░░░░░]  Java & OOP
-[███████████░░░░░░░░░░░]  Python
-[████████████░░░░░░░░░░]  SQL & Databases
-[███████░░░░░░░░░░░░░░░]  Firebase
-[█████░░░░░░░░░░░░░░░░░]  AI
-```
-
-### 🔥 Right now I'm focused on
-
-* 📱 Building better Flutter applications
-* 🧠 Strengthening computer science fundamentals
-* ☁️ Learning Firebase and backend concepts
-* 🗄️ Improving SQL & database skills
-* 🤖 Exploring AI and how it can fit into mobile applications
-* 🧩 Turning university knowledge into practical projects
-
----
-
-## 🛠️ `$ tech_stack`
-
-<div align="center">
-
-### `Mobile Development`
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-
-### `Programming`
-
-<img src="https://skillicons.dev/icons?i=java,python,c" />
-
-### `Web & Database`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
-
-### `Tools`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<a href="https://github.com/nipunagwdev-maker">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 `$ ./projects`
+## About Me
 
-### 💊 MediTime
+I'm an Applied Science undergraduate at **Wayamba University of Sri Lanka**, with a strong interest in **Computer Science and software development**.
 
-> **A medicine reminder application built with Flutter.**
+My current focus is **mobile application development using Flutter and Dart**. Alongside Flutter, I'm strengthening my programming fundamentals through Java, OOP, data structures, SQL, and Python.
 
-A practical mobile application designed around medication management and timely reminders.
+I also have a background in **graphic design**, which gives me a different perspective when building application interfaces. I'm interested in combining that design experience with solid programming and software engineering practices.
 
-```text
-Flutter
-├── Medicine management
-├── Local data persistence
-├── Scheduled notifications
-├── Custom UI
-└── User-focused experience
-```
+Currently, I'm focused on **learning, building projects, and developing the skills needed to become a professional software engineer.**
 
-`Flutter` `Dart` `Local Storage` `Notifications`
+---
+
+## Tech Stack
+
+**Currently working with**
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,c,python,mysql,git,github,vscode&perline=9" />
+</p>
+
+**Learning / Exploring next**
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,html,css,firebase&perline=8" />
+</p>
+
+> My goal isn't to collect technologies — it's to understand them well enough to build useful software.
+
+---
+
+## Featured Projects
+
+### 💊 MediTime — Medicine Reminder App
+
+A Flutter mobile application designed to help users manage their medicines and receive timely reminders.
+
+**Tech:** `Flutter` `Dart` `Local Storage` `Local Notifications`
+
+* Medicine management
+* Scheduled reminders
+* Local data persistence
+* Custom mobile UI
+* Designed and developed as a practical project
 
 ---
 
 ### 🏋️ Fitness Tracker
 
-> **A clean mobile workout tracking application.**
+A Flutter application created to practice mobile UI development, navigation and application structure.
 
-Built to practice Flutter navigation, UI composition, state handling and application structure.
+**Tech:** `Flutter` `Dart`
 
-```text
-Flutter
-├── Workout management
-├── Favourite system
-├── Multi-screen navigation
-└── Responsive UI
-```
-
-`Flutter` `Dart` `UI/UX`
-
----
-
-### 🌦️ Weather App
-
-> **Real-time weather information using APIs and device location.**
-
-A project focused on learning how mobile applications communicate with external services.
-
-```text
-Flutter
-├── REST API
-├── GPS location
-├── Geocoding
-└── Asynchronous data
-```
-
-`Flutter` `REST API` `Geolocator` `Geocoding`
+* Multiple screens
+* Workout management
+* Favourite workouts
+* Card-based UI
+* Mobile-first interface
 
 ---
 
 ### ☕ Java & Database Projects
 
-University and self-learning projects covering:
+A collection of university and self-study work focused on programming fundamentals and database concepts.
 
-`Java` `OOP` `Data Structures` `SQL` `MySQL`
+**Tech:** `Java` `OOP` `SQL` `MySQL`
+
+Areas I'm practicing include:
+
+* Object-Oriented Programming
+* Data Structures
+* Database Management
+* Problem Solving
 
 ---
 
-## 🎨 `$ design_mode`
+## My Development Journey
 
 ```text
-                 ┌─────────────────┐
-                 │     DESIGN      │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │      UI/UX      │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │      CODE       │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │   REAL PRODUCT  │
-                 └─────────────────┘
+Graphic Design
+      ↓
+UI / Visual Thinking
+      ↓
+Programming Fundamentals
+      ↓
+Flutter & Mobile Development
+      ↓
+Software Engineering
 ```
 
-My graphic-design background isn't my destination anymore.
+My design background is something I want to **bring into software development**, not leave behind.
 
-It's a tool I bring into development.
+I enjoy the combination of:
 
-I care about both sides:
-
-**How it works → How it feels to use.**
+**Good design + Good engineering + Useful software**
 
 ---
 
-## 🏆 `$ achievements`
+## Currently Learning
 
-* 🥇 **1st Place — ACISS Creative Designers' Contest 2026**
-* 🎓 **BSc Applied Science Undergraduate — Wayamba University of Sri Lanka**
-* 💻 Building a portfolio through practical software projects
-* 🚀 Participating in university technology & innovation activities
+* 📱 Improving my Flutter & Dart skills
+* ☕ Strengthening Java and OOP
+* 🐍 Continuing to study Python beyond the basics
+* 🌐 Starting to build stronger foundations in web development
+* 🗄️ Practicing SQL and database concepts
+* 🔧 Improving Git and software development workflow
+* 🤖 Exploring AI as a future area of development
 
 ---
 
-## 📊 `$ github_stats`
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nipunagwdev-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nipunagwdev-maker&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunagwdev-maker&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunagwdev-maker&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunagwdev-maker&layout=compact&theme=default&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
-## 🧠 `$ developer_thoughts`
-
-```javascript
-const developer = {
-    learn: true,
-    build: true,
-    fail: true,
-    debug: true,
-    improve: true
-};
-
-while (developer.learn) {
-    build();
-    fail();
-    debug();
-    improve();
-}
-```
-
-> **Every error is just another thing I haven't understood yet.**
-
----
-
-## 🤝 `$ connect`
+## Connect
 
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/nipunagwdev-maker">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-`< Building → Learning → Debugging → Improving />`
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,50:0175C2,100:0D1117&height=100&section=footer" width="100%"/>
+**Learning → Building → Improving**
 
 </div>
