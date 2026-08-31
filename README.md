@@ -27,7 +27,7 @@ current_focus: Flutter apps, Python basics, clean UI design
 fun_fact: Won 1st Place — ACISS Creative Designers' Contest 2026 🏆
 ```
 
-- 🔭 Currently building **MediTime** — a smart medicine reminder app
+- 🔭 Latest project **MediTime** — a smart medicine reminder app
 - 🌱 Learning Python fundamentals and sharpening my Flutter skills
 - 🎨 Design background gives my apps a professional, polished look
 - 💬 Ask me about Flutter, UI/UX, or anything mobile app related
