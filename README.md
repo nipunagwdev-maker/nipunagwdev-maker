@@ -1,101 +1,180 @@
-<h1 align="center">Hi there, I'm Nipuna 👋</h1>
-<h3 align="center">Mobile App Developer | Flutter Enthusiast | Python & Web Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8B8&center=true&vCenter=true&width=500&lines=Flutter+Developer;Python+Learner;BSc+Computing+Undergraduate;Building+Real+Apps+One+Bug+at+a+Time" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA8B8,100:0175C2&height=220&section=header&text=Hi%20There!%20I'm%20Nipuna%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Building%20Real%20Apps%2C%20Not%20Just%20Screens&descAlignY=55&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA8B8&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Turning+Ideas+Into+Working+Apps;Python+%26+Web+Enthusiast;BSc+Computing+Undergraduate;Always+Debugging%2C+Always+Learning" alt="Typing SVG" />
 
-### 🙋‍♂️ About Me
+<br/>
 
-- 🎓 3rd Year BSc Computing (CMIS) undergraduate at **Wayamba University of Sri Lanka**
-- 📱 Currently building apps with **Flutter & Dart**
-- 🐍 Also learning **Python** and basic **Web Development (HTML/CSS)**
-- 🏆 1st Place Winner — ACISS Creative Designers' Contest 2026
-- 🎨 Started as a graphic designer, now growing into a software developer
-- 💡 I like turning small ideas into working apps — think of it like a chef who used to just decorate cakes, and now bakes the whole cake from scratch
+<img src="https://komarev.com/ghpvc/?username=nipunagwdev-maker&label=Profile%20Views&color=2ea8b8&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Building%20MediTime-brightgreen?style=for-the-badge" />
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-**Mobile Development**
+## 🙋‍♂️ About Me
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+Think of me like someone building a house 🏗️ — I started with the paint and decoration (graphic design), and now I'm learning to build the walls and foundation too (real software development). That's my journey from **Fiverr designer** to **Flutter developer**.
 
-**Languages**
+```yaml
+name: G.W.N. Nipuna Madhuranga
+role: Mobile App Developer (Flutter) | CS Undergraduate
+university: Wayamba University of Sri Lanka
+degree: BSc Computing (CMIS) — 3rd Year
+location: Ambalangoda, Sri Lanka
+current_focus: Flutter apps, Python basics, clean UI design
+fun_fact: Won 1st Place — ACISS Creative Designers' Contest 2026 🏆
+```
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🔭 Currently building **MediTime** — a smart medicine reminder app
+- 🌱 Learning Python fundamentals and sharpening my Flutter skills
+- 🎨 Design background gives my apps a professional, polished look
+- 💬 Ask me about Flutter, UI/UX, or anything mobile app related
+- ⚡ Fun fact: I debug like a detective — every red error is just a clue 🕵️
 
-**Web**
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ My Tech Stack
 
-**Tools**
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,html,css,git,github,figma,vscode&theme=dark" />
 
----
+</div>
 
-### 🚀 Featured Projects
+<br/>
 
-#### 📱 [MediTime](https://github.com/nipunagwdev-maker) — Medicine Reminder App
-A Flutter app that helps people remember to take their medicine on time, like a small alarm clock made just for pills. Built with local notifications, PIN lock security, and saved data so nothing is lost when the app closes.
-`Flutter` `Dart` `SharedPreferences` `Local Notifications`
+## 🚀 Featured Projects
 
-#### 🏋️ [Fitness Tracker](https://github.com/nipunagwdev-maker/fitness_tracker_by_nipuna) — Workout Tracking App
-A 4-screen Flutter app (Home, Add New, Favourites, Profile) that works like a simple gym diary in your pocket — log a workout, mark your favourites, and keep track of your progress.
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💊 MediTime
+**Never miss a dose — your medicine, on time, every time**
+
+Imagine a personal assistant that taps you on the shoulder exactly when it's time for your pills — that's MediTime. Built as a full portfolio project with real security and reliability, not just a demo.
+
+**Highlights:**
+- 🔐 PIN-lock security like a mini banking app
+- ⏰ Exact daily notifications, even if the app is closed
+- 💾 Data saved locally so nothing is ever lost
+- 📋 Full medicine list with add/edit/delete
+
+`Flutter` `Dart` `Local Notifications` `SharedPreferences`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏋️ Fitness Tracker
+**Your pocket gym diary**
+
+Just like writing down your workouts in a notebook, but smarter — swipe through 4 clean screens to log workouts, save favourites, and track your fitness journey.
+
+**Highlights:**
+- 🏠 4-screen structure: Home, Add New, Favourites, Profile
+- ⭐ Favourite system for quick access to go-to workouts
+- 🎨 Clean, card-based UI design
+- 📤 Fully pushed and version-controlled on GitHub
+
 `Flutter` `Dart` `State Management`
 
-#### 🌤️ Weather App
-A Flutter app that shows live weather for your location, similar to checking the sky before deciding what to wear — but the app does it for you using GPS and live data.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌤️ Weather App
+**The sky, decoded — in real time**
+
+Like checking outside your window before choosing an outfit, except this app checks the sky for you using your live location and tells you exactly what to expect.
+
+**Highlights:**
+- 📍 Live GPS-based location detection
+- 🌡️ Real-time weather data from a live API
+- 🗺️ Geocoding to convert location into readable names
+
 `Flutter` `Geolocator` `Geocoding` `REST API`
 
-#### 🔗 QR Code Generator
-A simple Python tool that turns any text or link into a scannable QR code, the same way a shop turns a menu into a code you scan with your phone.
+</td>
+<td width="50%" valign="top">
+
+### 🔗 QR Code Generator
+**Turn any text into a scannable code**
+
+The same technology a restaurant uses for their digital menu — type any link or text, and this tool instantly creates a QR code ready to scan and share.
+
+**Highlights:**
+- ⚡ Instant text-to-QR conversion
+- 🐍 Lightweight, beginner-friendly Python script
+- 📦 Simple, reusable, and practical
+
 `Python`
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nipunagwdev-maker&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunagwdev-maker&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunagwdev-maker&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=nipunagwdev-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunagwdev-maker&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-### 📜 Certifications
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunagwdev-maker&theme=tokyonight&hide_border=true" />
 
-- ✅ Java Basics — Alison
-- ✅ Python Basics — Alison
-- ✅ GitHub for Beginners — Alison
-- ✅ AlgoAce IEEE Workshop — Algorithms & Complexity
+<img src="https://github-profile-trophy.vercel.app/?username=nipunagwdev-maker&theme=tokyonight&no-frame=true&row=1&column=6" />
 
----
+</div>
 
-### 📫 Connect with Me
+<br/>
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📜 Certifications
 
----
+<div align="center">
 
-<p align="center"><i>"Still learning, still building — one app at a time."</i></p>
+| Certificate | Provider |
+|:---|:---|
+| ☕ Java Basics | Alison |
+| 🐍 Python Basics | Alison |
+| 🐙 GitHub for Beginners | Alison |
+| 🧮 Algorithms & Complexity Workshop | IEEE AlgoAce |
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/94XXXXXXXXX" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/nipunagwdev-maker" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>"I used to just design the poster — now I build the app behind it."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:2EA8B8&height=100&section=footer" width="100%"/>
+
+</div>
