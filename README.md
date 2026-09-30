@@ -83,17 +83,25 @@ One of my recent milestones: **3★ Python on HackerRank**.
 
 I started using HackerRank mainly as a way to build a daily problem-solving habit. The badge is a small thing, but the process behind it matters more: solving problems, getting stuck, debugging, reading documentation, and trying again.
 
-| HackerRank Skill | Current Level |
-|:---|:---:|
-| 🐍 Python | ⭐⭐⭐ |
-| ☕ Java | ⭐⭐ |
-| 🧩 Problem Solving | ⭐ |
+| HackerRank Skill   | Current Level |
+| :----------------- | :-----------: |
+| 🐍 Python          |    ⭐⭐⭐     |
+| ☕ Java            |     ⭐⭐      |
+| 🧩 Problem Solving |      ⭐       |
 
 I also practice problems on **LeetCode** to strengthen algorithms, logic, and problem-solving patterns.
 
 ---
 
 ## 📱 Projects
+
+### Expenz (On progress) - Track your income & spendings
+
+A Flutter application designed around financial problems that we all faced.
+
+**Focus:** local storage, reusable Flutter widgets, user data, financial data like income money and spendings, and application UI. and also used shared_preferences to store simple user data
+
+`Flutter` `Dart` `Local Storage` `Local Notifications` `Shared_Preferences`
 
 ### 💊 MediTime — Medicine Reminder App
 
