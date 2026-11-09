@@ -5,7 +5,7 @@
 
 
 ### Cross-Platform App Developer • Flutter • React • Python • Java
-[![Nipuna Madhuranga profile views](https://u8views.com/api/v1/github/profiles/230684135/views/day-week-month-total-count.svg)](https://u8views.com/github/nipunagwdev-maker)
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+real+apps%2C+one+bug+at+a+time+%F0%9F%90%9B;Flutter+%7C+React+%7C+Python+%7C+Java;Solving+coding+challenges+every+day+%F0%9F%A7%A0;Learning.+Building.+Debugging.+Repeating.+%F0%9F%9A%80" alt="Typing animation" />
